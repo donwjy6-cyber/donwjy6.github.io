@@ -161,7 +161,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Dengan ataupun tanpaku, semoga semesta selalu membahagiakan kamu bagimanapun caranya.", " ", "barakallah fi umrik, terima kasih sudah bertahan sampai sejauh ini.", " ", "- Wish all you the best"],
+  strings: ["With or without me, may the universe always make you happy no matter what", " ", "thank you for sticking around this far", " ", "- Wish all you the best"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -446,5 +446,6 @@ function confetti() {
 
   if (!onlyOnKonami) poof();
 };
+
 
 
