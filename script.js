@@ -154,7 +154,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Happy Birthday my Dear, saya langitkan semua doa terbaik saya untuk kamu.", "Semoga hal-hal yang membuat kamu runtuh turut menjadi alasan kamu untuk tetap tumbuh.", "Semoga dunia senantiasa menjaga kamu dimanapun kamu berada.", "Semoga hari-hari kamu selalu diiringi cinta yang tak pernah ada batasnya." , "Semoga setiap langkahmu dimudahkan hingga tercapai apa yang kamu inginkan."],
+  strings: ["Happy Birthday my Dear,", " You deserve to have the best day ever", "I just wish I could be there for it", "No matter the miles that separate us, you're always with me in spiritIf you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you" , ""],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
@@ -446,4 +446,5 @@ function confetti() {
 
   if (!onlyOnKonami) poof();
 };
+
 
